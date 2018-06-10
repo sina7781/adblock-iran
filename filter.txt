@@ -1116,6 +1116,9 @@ zoomtech.ir###text-3
 ||yas98.ir/wp-content/uploads/*/*/*.gif
 ||yasdl.com/wp-content/uploads/*/*/faranesh.gif
 ||yasell.biz
+||tajdentalclinic.com
+||tajdentalclinic.com/dental-implants-prices-stages-complications-types-of-implants/
+||tajdentalclinic.com/orthodontic-tooth/
 ||yeknet.ir/sites/default/files/js/
 ||yektanet.com^
 ||zanboor.net/show.php$subdocument
