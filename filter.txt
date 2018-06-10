@@ -1063,7 +1063,7 @@ zoomtech.ir###text-3
 ||taknaz.net/taknaz/pish2.php$subdocument
 ||taknaz.net/taknaz/test.php$subdocument
 ||taktemp.com/wp-content/uploads/*/*/*.gif
-||http://tajdentalclinic.com/implant/
+||tajdentalclinic.com/implant/
 ||talab.ir/wp-content/uploads/baner/2/$image
 ||talab.org/talab/m.php
 ||talab.org/talab/m1.php
